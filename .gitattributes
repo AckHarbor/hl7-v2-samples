@@ -1,0 +1,7 @@
+# HL7 v2 samples use CR (\r) segment terminators. Never convert line endings.
+*.hl7 -text diff
+# Everything else: normalize to LF.
+*.md   text eol=lf
+*.json text eol=lf
+*.js   text eol=lf
+LICENSE* text eol=lf
