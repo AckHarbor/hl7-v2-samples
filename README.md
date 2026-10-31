@@ -109,3 +109,5 @@ Contributions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md).
 ---
 AckHarbor™ is a trademark of DaRider Tech LLC.
 HL7® and FHIR® are registered trademarks of Health Level Seven International; use does not constitute endorsement.
+
+More free tools and training at [ackharbor.com](https://ackharbor.com).
